@@ -1,0 +1,10 @@
+----------
+-oooooooo-
+-o------o-
+-o-oooo-o-
+-o-o--o-o-
+-o-o--o-o-
+-o-X--o-o-
+-o----o-o-
+-oooooo-s-
+----------
